@@ -1,0 +1,15 @@
+#labels Featured
+=Run GeNova Project (For Mono in Windows)=
+
+_*This text was translated from Portuguese (Brazil) into English with a translation tool google.*_
+
+*1.* Get more mono updated on your machine (1.2.6). I suggest the folder: C: \ Program Files \ Mono
+*2.* Get Mysql on your machine (5.0 +, I use 5.0). Once you install the tables you need to download the file: "MYSQL.txt scripts." The service needs of its Mysql runs when running the server.
+*3.* Edit the file: "compiling project mono.bat." Set based on the folders in your computer. This. Bat used to compile the project and generate the. Exe.
+*4.* Edit the file: "rotate server with mono.bat." Set based on the folders in your computer. This. Bat serves to raise the server.
+*5.* Go folder. "\ Server\_GeNova_\Controllers", and open the file: "ControladorConexaoMysql.cs." In this file you edit the settings of Mysql according to your machine.
+
+*PS1:* This explanation is based on mono, running via windows.
+*PS2:* other configuration files you will see the site of the project, there at the end.
+
+Do!
