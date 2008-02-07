@@ -1,4 +1,3 @@
-#labels Members
 ===*Owner GeNova Project (New Code)*===
   * Alex Marçal Souza
 
