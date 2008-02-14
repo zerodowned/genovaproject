@@ -16,7 +16,7 @@ _*This text was translated from Portuguese (Brazil) into English with a translat
 *4.* Edit the file: "rodar servidor com mono.bat" Set based on the folders in your computer. This. Bat serves to raise the server.
 
 
-*5.* Go folder ".\GeNova_XML\Configs", and open the file: "mysql.xml" In this file you edit the settings of Mysql according to your machine.
+*5.* Go folder ".\GeNova_XML\Configs", and open the file: "mysql.xml" In this file you edit the value settings of Mysql according to your machine.
 
 
 *PS1:* This explanation is based on mono, running via windows.
